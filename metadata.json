@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Flipkart Clone",
+  "description": "A mobile-first E-commerce web app built with React and Tailwind CSS, resembling Flipkart's user experience. It features product browsing, cart management, checkout, and order tracking, with AI-powered features using the Gemini API.",
+  "requestFramePermissions": []
+}
